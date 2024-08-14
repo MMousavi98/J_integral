@@ -6,7 +6,7 @@
 #
 # (For plane-strain cases)
 #
-# Authors: S.M. Mousavi, I. Ang N. Bouklas
+# Authors: S.M. Mousavi, I. Ang, N. Bouklas
 # Email: sm2652@cornell.edu
 # date: 05/01/2024
 #
